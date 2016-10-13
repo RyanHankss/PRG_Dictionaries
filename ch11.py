@@ -147,7 +147,7 @@ print ("\n\n")
 # more concise version of invert_dict. Solution: http://thinkpython.com/code/invert_dict. py .
 # define
 def invert_dict(z):
-    # create library
+    # create empty dict
     inverse = {}
     # call for key/val in named dict
     for key, vale in z.items():
